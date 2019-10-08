@@ -11,7 +11,11 @@ Preliminarily, three methods come to my mind:
 
 # Task
 
-There could be several scenarios that 'Text Generation' could be used. Let's say autocompletion(or recommendation), `Kite` is known as a notable tool using AI/NLP techniques to enhance autocompletion skills. More, `OpenAI` also released their markable result in Text Generation using very large `GPT-2`. 
+There are several scenarios that `Text Generation` could be used.
+
+Let's say autocompletion(or recommendation), `Kite` is known as a notable tool using AI/NLP techniques to enhance autocompletion skills. 
+
+More, for machine writing, `OpenAI` have already released their remarkable result in Text Generation using very large `GPT-2`. 
 
 
 # Dependencies
@@ -22,9 +26,7 @@ In this project, I would need some packages to perform the experiemnts.
 2. pytorch/fairseq
 
 and 
-
-	'''
-	pytorch==1.2.0
-	'''
-
+```commandline
+pytorch==1.2.0
+```
 
